@@ -1,0 +1,7 @@
+[IndigoIAM-stable-EL9]
+name=IndigoIAM-stable-EL9
+baseurl=https://repo.cloud.cnaf.infn.it/repository/indigo-iam-rpm-stable/almalinux9
+protect=1
+enabled=1
+priority=1
+gpgcheck=0
