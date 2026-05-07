@@ -1,0 +1,8 @@
+[IndigoIAM-stable-EL8]
+name=IndigoIAM-stable-EL8
+baseurl=https://repo.cloud.cnaf.infn.it/repository/indigo-iam-rpm-stable/almalinux8
+protect=1
+enabled=1
+priority=1
+gpgcheck=1
+gpgkey=https://repo.cloud.cnaf.infn.it/repository/indigo-iam/CNAFSD.asc
